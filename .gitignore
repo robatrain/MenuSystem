@@ -361,6 +361,3 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
-
-# Unreal Engine Large Content Files
-Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset
