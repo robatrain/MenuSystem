@@ -1,0 +1,9 @@
+{
+	"SourceFiles": [
+		"D:\\Unreal Projects\\MenuSystem\\Source\\MenuSystem\\MenuSystem.Build.cs",
+		"D:\\Unreal Projects\\MenuSystem\\Plugins\\MultiplayerSessions\\Source\\MultiplayerSessions\\MultiplayerSessions.Build.cs",
+		"D:\\Unreal Projects\\MenuSystem\\Source\\MenuSystem.Target.cs",
+		"D:\\Unreal Projects\\MenuSystem\\Source\\MenuSystemEditor.Target.cs"
+	],
+	"EngineVersion": "5.5.4"
+}
