@@ -16,6 +16,8 @@
   </ItemGroup>
   <ItemGroup>
   <Compile Include="..\..\..\..\Plugins\MultiplayerSessions\Source\MultiplayerSessions\MultiplayerSessions.Build.cs"><Link>Plugins\MultiplayerSessions\Source\MultiplayerSessions\MultiplayerSessions.Build.cs</Link></Compile>
+  <Compile Include="..\..\..\..\Plugins\VisualStudioTools\Source\VisualStudioBlueprintDebuggerHelper\VisualStudioBlueprintDebuggerHelper.Build.cs"><Link>Plugins\VisualStudioTools\Source\VisualStudioBlueprintDebuggerHelper\VisualStudioBlueprintDebuggerHelper.Build.cs</Link></Compile>
+  <Compile Include="..\..\..\..\Plugins\VisualStudioTools\Source\VisualStudioTools\VisualStudioTools.Build.cs"><Link>Plugins\VisualStudioTools\Source\VisualStudioTools\VisualStudioTools.Build.cs</Link></Compile>
   <Compile Include="..\..\..\..\Source\MenuSystem.Target.cs"><Link>Source\MenuSystem.Target.cs</Link></Compile>
   <Compile Include="..\..\..\..\Source\MenuSystemEditor.Target.cs"><Link>Source\MenuSystemEditor.Target.cs</Link></Compile>
   <Compile Include="..\..\..\..\Source\MenuSystem\MenuSystem.Build.cs"><Link>Source\MenuSystem\MenuSystem.Build.cs</Link></Compile>

@@ -14,7 +14,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define MENUSYSTEM_MenuSystemCharacter_generated_h
 
-#define FID_Users_robat_source_repos_robatrain_MenuSystem_Source_MenuSystem_MenuSystemCharacter_h_21_INCLASS_NO_PURE_DECLS \
+#define FID_MenuSystem_Source_MenuSystem_MenuSystemCharacter_h_21_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAMenuSystemCharacter(); \
 	friend struct Z_Construct_UClass_AMenuSystemCharacter_Statics; \
@@ -23,7 +23,7 @@ public: \
 	DECLARE_SERIALIZER(AMenuSystemCharacter)
 
 
-#define FID_Users_robat_source_repos_robatrain_MenuSystem_Source_MenuSystem_MenuSystemCharacter_h_21_ENHANCED_CONSTRUCTORS \
+#define FID_MenuSystem_Source_MenuSystem_MenuSystemCharacter_h_21_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	AMenuSystemCharacter(AMenuSystemCharacter&&); \
@@ -35,12 +35,12 @@ public: \
 	NO_API virtual ~AMenuSystemCharacter();
 
 
-#define FID_Users_robat_source_repos_robatrain_MenuSystem_Source_MenuSystem_MenuSystemCharacter_h_18_PROLOG
-#define FID_Users_robat_source_repos_robatrain_MenuSystem_Source_MenuSystem_MenuSystemCharacter_h_21_GENERATED_BODY \
+#define FID_MenuSystem_Source_MenuSystem_MenuSystemCharacter_h_18_PROLOG
+#define FID_MenuSystem_Source_MenuSystem_MenuSystemCharacter_h_21_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_Users_robat_source_repos_robatrain_MenuSystem_Source_MenuSystem_MenuSystemCharacter_h_21_INCLASS_NO_PURE_DECLS \
-	FID_Users_robat_source_repos_robatrain_MenuSystem_Source_MenuSystem_MenuSystemCharacter_h_21_ENHANCED_CONSTRUCTORS \
+	FID_MenuSystem_Source_MenuSystem_MenuSystemCharacter_h_21_INCLASS_NO_PURE_DECLS \
+	FID_MenuSystem_Source_MenuSystem_MenuSystemCharacter_h_21_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -48,7 +48,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> MENUSYSTEM_API UClass* StaticClass<class AMenuSystemCharacter>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_Users_robat_source_repos_robatrain_MenuSystem_Source_MenuSystem_MenuSystemCharacter_h
+#define CURRENT_FILE_ID FID_MenuSystem_Source_MenuSystem_MenuSystemCharacter_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
