@@ -1,9 +1,11 @@
 {
 	"SourceFiles": [
-		"D:\\Unreal Projects\\MenuSystem\\Source\\MenuSystem\\MenuSystem.Build.cs",
-		"D:\\Unreal Projects\\MenuSystem\\Plugins\\MultiplayerSessions\\Source\\MultiplayerSessions\\MultiplayerSessions.Build.cs",
-		"D:\\Unreal Projects\\MenuSystem\\Source\\MenuSystem.Target.cs",
-		"D:\\Unreal Projects\\MenuSystem\\Source\\MenuSystemEditor.Target.cs"
+		"C:\\Users\\robat\\source\\repos\\robatrain\\MenuSystem\\Source\\MenuSystem\\MenuSystem.Build.cs",
+		"C:\\Users\\robat\\source\\repos\\robatrain\\MenuSystem\\Plugins\\MultiplayerSessions\\Source\\MultiplayerSessions\\MultiplayerSessions.Build.cs",
+		"C:\\Users\\robat\\source\\repos\\robatrain\\MenuSystem\\Plugins\\VisualStudioTools\\Source\\VisualStudioBlueprintDebuggerHelper\\VisualStudioBlueprintDebuggerHelper.Build.cs",
+		"C:\\Users\\robat\\source\\repos\\robatrain\\MenuSystem\\Plugins\\VisualStudioTools\\Source\\VisualStudioTools\\VisualStudioTools.Build.cs",
+		"C:\\Users\\robat\\source\\repos\\robatrain\\MenuSystem\\Source\\MenuSystem.Target.cs",
+		"C:\\Users\\robat\\source\\repos\\robatrain\\MenuSystem\\Source\\MenuSystemEditor.Target.cs"
 	],
 	"EngineVersion": "5.5.4"
 }

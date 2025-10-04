@@ -1,0 +1,19 @@
+{
+  "targets": {
+    "MenuSystemEditor": {
+      "targetType": "Editor",
+      "targetPath": "C:\\Users\\robat\\source\\repos\\robatrain\\MenuSystem\\Source\\MenuSystemEditor.Target.cs",
+      "projectPath": "C:\\Users\\robat\\source\\repos\\robatrain\\MenuSystem\\MenuSystem.uproject",
+      "configurations": [
+        "Development"
+      ],
+      "platforms": [
+        "Win64"
+      ],
+      "architectures": [],
+      "configurationsAndPlatforms": [
+        "Development-Win64"
+      ]
+    }
+  }
+}
