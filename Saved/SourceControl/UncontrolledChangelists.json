@@ -6,7 +6,9 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"D:/Unreal Projects/MenuSystem/Content/StarterContent/Architecture/Floor_400x400.uasset",
-				"D:/Unreal Projects/MenuSystem/Content/ThirdPerson/Maps/ThirdPersonMap.umap"
+				"D:/Unreal Projects/MenuSystem/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"D:/Unreal Projects/MenuSystem/Content/ThirdPerson/Maps/Lobby.umap",
+				"D:/Unreal Projects/MenuSystem/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
 			]
 		}
 	]
