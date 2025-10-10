@@ -197,5 +197,11 @@
     <ClCompile Include="..\..\Source\MenuSystem\MenuSystemGameMode.h">
       <Filter>Source\MenuSystem</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\Source\MenuSystem\LobbyGameMode.h">
+      <Filter>Source\MenuSystem</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\MenuSystem\LobbyGameMode.cpp">
+      <Filter>Source\MenuSystem</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
