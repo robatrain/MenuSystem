@@ -53,10 +53,10 @@
     <ClCompile Include="..\..\Plugins\MultiplayerSessions\Source\MultiplayerSessions\Private\MultiplayerSessions.cpp">
       <Filter>Plugins\MultiplayerSessions\Source\MultiplayerSessions\Private</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\Plugins\MultiplayerSessions\Source\MultiplayerSessions\Private\Menu.cpp">
+    <ClCompile Include="..\..\Plugins\MultiplayerSessions\Source\MultiplayerSessions\Private\MultiplayerSessionsSubsystem.cpp">
       <Filter>Plugins\MultiplayerSessions\Source\MultiplayerSessions\Private</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\Plugins\MultiplayerSessions\Source\MultiplayerSessions\Private\MultiplayerSessionsSubsystem.cpp">
+    <ClCompile Include="..\..\Plugins\MultiplayerSessions\Source\MultiplayerSessions\Private\Menu.cpp">
       <Filter>Plugins\MultiplayerSessions\Source\MultiplayerSessions\Private</Filter>
     </ClCompile>
     <Filter Include="Plugins\MultiplayerSessions\Source\MultiplayerSessions\Public">
@@ -65,10 +65,10 @@
     <ClCompile Include="..\..\Plugins\MultiplayerSessions\Source\MultiplayerSessions\Public\MultiplayerSessions.h">
       <Filter>Plugins\MultiplayerSessions\Source\MultiplayerSessions\Public</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\Plugins\MultiplayerSessions\Source\MultiplayerSessions\Public\Menu.h">
+    <ClCompile Include="..\..\Plugins\MultiplayerSessions\Source\MultiplayerSessions\Public\MultiplayerSessionsSubsystem.h">
       <Filter>Plugins\MultiplayerSessions\Source\MultiplayerSessions\Public</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\Plugins\MultiplayerSessions\Source\MultiplayerSessions\Public\MultiplayerSessionsSubsystem.h">
+    <ClCompile Include="..\..\Plugins\MultiplayerSessions\Source\MultiplayerSessions\Public\Menu.h">
       <Filter>Plugins\MultiplayerSessions\Source\MultiplayerSessions\Public</Filter>
     </ClCompile>
     <None Include="..\..\Plugins\MultiplayerSessions\MultiplayerSessions.uplugin">
@@ -197,10 +197,10 @@
     <ClCompile Include="..\..\Source\MenuSystem\MenuSystemGameMode.h">
       <Filter>Source\MenuSystem</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\Source\MenuSystem\LobbyGameMode.h">
+    <ClCompile Include="..\..\Source\MenuSystem\LobbyGameMode.cpp">
       <Filter>Source\MenuSystem</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\Source\MenuSystem\LobbyGameMode.cpp">
+    <ClCompile Include="..\..\Source\MenuSystem\LobbyGameMode.h">
       <Filter>Source\MenuSystem</Filter>
     </ClCompile>
   </ItemGroup>

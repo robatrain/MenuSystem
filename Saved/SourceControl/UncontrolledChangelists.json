@@ -9,7 +9,8 @@
 				"D:/Unreal Projects/MenuSystem/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
 				"D:/Unreal Projects/MenuSystem/Content/ThirdPerson/Maps/Lobby.umap",
 				"D:/Unreal Projects/MenuSystem/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
-				"D:/Unreal Projects/MenuSystem/Content/ThirdPerson/Blueprints/BP_LobbyGameMode.uasset"
+				"D:/Unreal Projects/MenuSystem/Content/ThirdPerson/Blueprints/BP_LobbyGameMode.uasset",
+				"D:/Unreal Projects/MenuSystem/Plugins/MultiplayerSessions/Content/WBP_Menu.uasset"
 			]
 		}
 	]
